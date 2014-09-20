@@ -1,0 +1,10 @@
+body {color:#333;font:90%/1.45em "Helvetica Neue",HelveticaNeue,Verdana,Arial,Helvetica,sans-serif;}
+body {font-size:1.2em;}
+h1,h2 {text-align:center;}
+div.info {margin:auto; width:80%;}
+div.deptos {margin:auto;padding:20px 0;text-align:center;width:80%;}
+div.depto {margin:auto; width:80%;}
+div.nav {margin:auto;padding:20px 0;text-align:center;width:80%;}
+div.credits {font-size:0.8em;margin:auto;text-align:right;width:80%;}
+th {text-align:center;}
+th,td {font-size:0.8em;}
