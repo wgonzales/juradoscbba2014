@@ -1,2 +1,2 @@
 # juradoscbba2014
-http://wgonzales.github.io/juradoscbba2014/
+http://wildergonzo.github.io/juradoscbba2014/
